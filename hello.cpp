@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Abebe eats meat!";
+    cout<<"Hello World!";
     cout<<"AAAA";
 }
